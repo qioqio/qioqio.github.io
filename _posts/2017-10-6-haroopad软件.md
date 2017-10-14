@@ -1,13 +1,14 @@
 
 ---
-layout: post
-title: haroopad使用总结
-subtitle:  
-date: October 14, 2017 5:41 PM
-author: qioqio
-header-img: img/Pingguo37.jpg
-catalog: true
-
+layout:     post                    # 使用的布局（不需要改）
+title:     haroopad使用总结           # 标题 
+subtitle:   Hello World, Hello Blog #副标题
+date:       2017-10-14            # 时间
+author:     qioqio                     # 作者
+header-img: img/Pingguo37.jpg    #这篇文章标题背景图片
+catalog: true                       # 是否归档
+tags:                               #标签
+    -markdown
 ---
 
 ## 前言
