@@ -2,7 +2,7 @@
 layout: post
 title: 记录数次安装linux的经历
 subtitle:  
-date: October 14, 2017 5:39 PM
+date: 2017-10-14 
 author: qioqio
 header-img: img/Pingguo37.jpg
 catalog: true
