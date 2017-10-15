@@ -1,20 +1,21 @@
+---
+layout:     post                    
+title:     haroopad软件      
+date:       2017-10-6          
+author:     qioqio                   
+header-img: img/Pingguo37.jpg    
+catalog: true                     
+tags:                            
+- markdown
+---
 
----
-layout:     post                    # 使用的布局（不需要改）
-title:     haroopad使用总结           # 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2017-10-14            # 时间
-author:     qioqio                     # 作者
-header-img: img/Pingguo37.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
-    -markdown
----
+
 
 ## 前言
 >我之前接触了markdown,觉得这个东西真的是很简单,很方便,并且在搭建好个人博客之后是不得不使用markdown来提交自己的博客,所以我就安装了很多的软甲来测试哪个比较好用,在看了不少的博客推荐的软件之后,我都安装了一下,但是最后我只留下来这个软件,这个软件真的是很方便.
 
-##正文
+
+## 正文
 首先这个软件并不大,当然如果可以的话,使用sublime来写markdown更小,但是我觉得并不舒服,因为 不能实时预览.
 其次这个软件高度自定义!
 
