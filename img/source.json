@@ -739,7 +739,9 @@
     },
     {
         "name": "ASMR(优)",
-        "api": "http://www.asmr19.in/api.php/provide/vod/ {
+        "api": "http://www.asmr19.in/api.php/provide/vod/"
+    },
+    {
         "name": "海外电影",
         "api": "https://www.200121.com/api.php/provide/vod/"
     },
