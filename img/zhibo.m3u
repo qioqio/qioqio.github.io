@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id=&#34;1&#34; tvg-name=&#34;CCTV1&#34; tvg-logo=&#34;http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png&#34; group-title=&#34;央视&#34;,CCTV1综合(1080p)
@@ -75,6 +77,12 @@ http://192.168.254.254:4000/udp/225.1.4.162:1204
 #EXTINF:-1 tvg-id=&#34;47&#34; tvg-name=&#34;河南卫视&#34; tvg-logo=&#34;http://epg.51zmt.top:8000/tb1/ws/henan.png&#34; group-title=&#34;河南&#34;,HNTV1河南卫视4K(2160p)
 
 http://192.168.254.254:4000/udp/225.1.4.254:1300
+
+
+#EXTINF:-1 tvg-id=&#34;47&#34; tvg-name=&#34;河南卫视4k&#34; tvg-logo=&#34;http://epg.51zmt.top:8000/tb1/ws/henan.png&#34; group-title=&#34;河南&#34;,HNTV1河南卫视4K(2160p)
+
+http://iptv.cdn.ha.chinamobile.com/PLIV/88888888/224/3221226344/index.m3u8 
+
 
 #EXTINF:-1 tvg-id=&#34;&#34; tvg-name=&#34;&#34; tvg-logo=&#34;http://epg.51zmt.top:8000/tb1/ws/henan.png&#34; group-title=&#34;河南&#34;,HNTV2都市频道(1080i)
 
